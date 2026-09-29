@@ -1,0 +1,3 @@
+/Users/dk/code/carrace/app/.cxx/Debug/2u2z2s25/armeabi-v7a/CMakeFiles/carrace.dir
+/Users/dk/code/carrace/app/.cxx/Debug/2u2z2s25/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/dk/code/carrace/app/.cxx/Debug/2u2z2s25/armeabi-v7a/CMakeFiles/rebuild_cache.dir

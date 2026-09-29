@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/dk/code/carrace/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dk/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dk/code/carrace/app/.cxx/Debug/2u2z2s25/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dk/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dk/code/carrace/app/.cxx/Debug/2u2z2s25/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "carrace::@6890427a1f51a3e7e1df": {
+      "artifactName": "carrace",
+      "abi": "x86",
+      "output": "/Users/dk/code/carrace/app/build/intermediates/cxx/Debug/2u2z2s25/obj/x86/libcarrace.so",
+      "runtimeFiles": []
+    }
+  }
+}

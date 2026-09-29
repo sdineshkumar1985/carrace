@@ -1,0 +1,3 @@
+/Users/dk/code/carrace/app/.cxx/Debug/1q4x4m5l/arm64-v8a/CMakeFiles/carrace.dir
+/Users/dk/code/carrace/app/.cxx/Debug/1q4x4m5l/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/dk/code/carrace/app/.cxx/Debug/1q4x4m5l/arm64-v8a/CMakeFiles/rebuild_cache.dir

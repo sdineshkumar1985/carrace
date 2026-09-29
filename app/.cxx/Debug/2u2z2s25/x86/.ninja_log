@@ -1,0 +1,9 @@
+# ninja log v5
+3	4929	1790560088537013079	CMakeFiles/carrace.dir/Shader.cpp.o	cbe4d890222cfb60
+4	4950	1790560088567755274	CMakeFiles/carrace.dir/Utility.cpp.o	7ceddabacc58ff98
+2	5053	1790560088628397921	CMakeFiles/carrace.dir/AndroidOut.cpp.o	17d983a73c8152de
+3	5057	1790560088643577499	CMakeFiles/carrace.dir/ColorShader.cpp.o	4d6f42096a4e9c6a
+4	5256	1790560088876097382	CMakeFiles/carrace.dir/TextureAsset.cpp.o	bc15528b674dcddc
+0	5527	1790560089144865789	CMakeFiles/carrace.dir/main.cpp.o	c797938f5d8a2d3
+3	6125	1790560089743937949	CMakeFiles/carrace.dir/Renderer.cpp.o	eec0377f63ff55e9
+6126	6263	1790560089873438256	/Users/dk/code/carrace/app/build/intermediates/cxx/Debug/2u2z2s25/obj/x86/libcarrace.so	8c2483ee7a630847

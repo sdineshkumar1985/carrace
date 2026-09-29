@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/main.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/main.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/AndroidOut.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/AndroidOut.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/AndroidOut.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/Renderer.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/Renderer.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/Renderer.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/Shader.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/Shader.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/Shader.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/ColorShader.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/ColorShader.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/ColorShader.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/TextureAsset.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/TextureAsset.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/TextureAsset.cpp"
+},
+{
+  "directory": "/Users/dk/code/carrace/app/.cxx/Debug/474e2v6x/x86_64",
+  "command": "/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/dk/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcarrace_EXPORTS -isystem /Users/dk/.gradle/caches/9.6.0/transforms/dc6e9f72af49eb90408d5167d47620b0/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/carrace.dir/Utility.cpp.o -c /Users/dk/code/carrace/app/src/main/cpp/Utility.cpp",
+  "file": "/Users/dk/code/carrace/app/src/main/cpp/Utility.cpp"
+}
+]
